@@ -1,0 +1,4 @@
+[14-Apr-2023 11:51:27 UTC] PHP Parse error:  syntax error, unexpected '2' (T_LNUMBER), expecting ')' in /home/a38ls2aqw06w/public_html/doctor/webservice/getAllPatients.php on line 15
+[14-Apr-2023 11:53:25 UTC] PHP Parse error:  syntax error, unexpected '2' (T_LNUMBER), expecting ')' in /home/a38ls2aqw06w/public_html/doctor/webservice/getAllPatients.php on line 15
+[14-Apr-2023 11:53:28 UTC] PHP Parse error:  syntax error, unexpected '2' (T_LNUMBER), expecting ')' in /home/a38ls2aqw06w/public_html/doctor/webservice/getAllPatients.php on line 15
+[14-Apr-2023 11:53:41 UTC] PHP Parse error:  syntax error, unexpected '2' (T_LNUMBER), expecting ';' or ',' in /home/a38ls2aqw06w/public_html/doctor/webservice/getAllPatients.php on line 16
